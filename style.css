@@ -82,6 +82,9 @@ h1 {
     border: none;
     cursor: pointer;
     transition: 0.3s ease-in-out;
+    display: block;
+    text-align: center;
+    text-decoration: none;
 }
 
 .btn:hover {
