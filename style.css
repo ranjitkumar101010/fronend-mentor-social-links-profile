@@ -67,8 +67,9 @@ h1 {
     color: #D0F16C;
 }
 
-.top-section p {
+h2 {
     font-size: 14px;
+    font-weight: normal;
     margin-bottom: 20px;
 }
 
